@@ -55,3 +55,12 @@ Meetups by Region
 |             	|              	|           	|                   	|
 |             	|              	|           	|                   	|
 |             	|              	|           	|                   	|
+
+#### Western Australia
+
+
+| Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
+|-------------	|--------------	|-----------	|-------------------	|
+| [SecTalks Perth](https://www.sectalks.org/perth/) | Thursday | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 3rd Thursday of each month at 5:30pm. |
+|             	|              	|           	|                   	|
+|             	|              	|           	|                   	|
