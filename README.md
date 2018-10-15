@@ -10,7 +10,6 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Melbourne](https://www.sectalks.org/melbourne)  |  Last Wednesday	| Monthly	| SecTalks Melbourne is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the last Wednesday of each month at 6:00pm - 7:30pm, in Southbank/CBD, Melbourne. |
-	|
 |             	|              	|           	|                   	|
 |             	|              	|           	|                   	|
 
