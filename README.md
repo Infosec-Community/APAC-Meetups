@@ -56,7 +56,7 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| About this Meetup | Locale 	|
 |-------------	|--------------	|-----------	|-------------------	|
 |[CSides](https://bsidescbr.com.au/csides.html)	| 3rd Friday, Monthly 	| CSides Monthly Security Meetups provide an opportunity to listen to and share security research within the Canberra region. The meeting occurs normally on the 3rd Friday of every month. Each meetup consists of 1-2 talks of around 30 mins each. Talks start at 6pm and are followed by some socialising at a local pub. New attendees are welcome, just come along! (There are no entry fees, and no tickets to book) The talks at CSides are technical. CSides welcomes new and interesting speakers to present - the topic will be on a technical or security issue.	| Acton, Canberra	|
-| [SecTalks Canberra](https://www.sectalks.org/canberra/)  |  2nd Tuesday, Monthly	| SecTalks Melbourne is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the last Wednesday of each month at 6:00pm - 7:30pm. | CBD, Canberra. |
+| [SecTalks Canberra](https://www.sectalks.org/canberra/)  |  2nd Tuesday, Monthly	| SecTalks Melbourne is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. | CBD, Canberra. |
 |             	|              	|           	|                   	|
 
 #### Western Australia
