@@ -30,6 +30,9 @@ Meetups by Region
 | [DC011612](https://www.dc011612.com/) | Last Thursday, Bi-Monthly | DC011612 is an Australian based DEF CON group started up in January 2018 by V3rbaal; it was formerly known as DC42. Meetups are sponsored by MercuryISS and are held usually on the last Thursday bi-monthly, with a turn up average of 25 members.  | CBD, Sydney |
 | [CryptoAUSTRALIA Digital Self-Defence & Privacy](https://www.meetup.com/CryptoAUSTRALIA-Digital-Self-Defence-Privacy/) | Monthly | CryptoAUSTRALIA Digital Self-Defence & Privacy empowers citizens to embrace technology to help preserve their right to privacy. Our group achieves this by providing practical information on tools, processes and policy (need to think about appropriate terms) allowing citizens that are new to privacy concepts to quickly adopt and adapt to a privacy environment. | CBD, Sydney
 | [Cybersecurity for Lawyers by CryptoAUSTRALIA](https://www.meetup.com/Cybersecurity-for-Lawyers/) | Monthly | CryptoAUSTRALIA are running a series of lectures and workshops to help legal professionals protect themselves and their legal practices from hackers, cyber-criminals and digital threats. | CBD, Sydney
+| [(ISC)2 Sydney Chapter](https://www.meetup.com/ISC-2-Sydney-Chapter/) | Random | This is (ISC)2 Sydney chapter group inviting all professionals to come an join us for our professional meetups | CBD, Sydney
+| [Sydney Cyber Security for Control Systems](https://www.meetup.com/Sydney-Cyber-Security-for-Control-Systems/) | Random | This meetup dedicated to all professionals involved in Cyber Security for Automated Processes and Control Systems including security for Operating Technology (OT), Industrial Control Systems (ICS), SCADA Systems, Transportation Systems, Building Control Systems (BCS), and even emerging Industrial Internet of Things (IIoT) systems. Our purpose is to connect the professionals in the Greater Sydney area with real interest in or responsibility for the cyber security of these systems. | Sydney
+| [Sydney Cybersecurity Meetup](https://www.meetup.com/Sydney-Cybersecurity-Meetup/) | Random | A group for those interested in networking opportunities, informative discussions and educational sessions on all things cyber. Our Meetup is designed to fit all experience and skill levels from novice to Cyber Warrior. So whether you’re in business, academia, or government, we're looking forward to meeting you at our next event! | Sydney
 
 
 #### Queensland
@@ -38,7 +41,7 @@ Meetups by Region
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Brisbane](https://www.sectalks.org/brisbane/) | Thursday | Monthly | SecTalks Brisbane is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 4th Thursday of each month at 6pm. |
 | [SecTalks Toowoomba](https://twitter.com/sectalks_twb)	| New - in planning stages	|||
-|             	|              	|           	|                   	|
+| [OWASP Brisbane](https://www.owasp.org/index.php/Brisbane) |              	| Best effort | OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. |
 |             	|              	|           	|                   	|
 
 #### South Australia
@@ -75,5 +78,5 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Perth](https://www.sectalks.org/perth/) | Thursday | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 3rd Thursday of each month at 5:30pm. |
-|             	|              	|           	|                   	|
+| [OWASP Perth](https://www.meetup.com/OWASP-Perth/) | | Best Effort | The Open Web Application Security Project (OWASP) is a worldwide not-for-profit organisation focused on improving software security. OWASP Perth is a local Chapter run by volunteers. Our primary focus is advancing software security through bolstering awareness and sharing of practical knowledge and advice. |
 |             	|              	|           	|                   	|
