@@ -30,7 +30,7 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Brisbane](https://www.sectalks.org/brisbane/) | Thursday | Monthly | SecTalks Brisbane is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 4th Thursday of each month at 6pm. |
-|             	|              	|           	|                   	|
+| [SecTalks Toowoomba](https://twitter.com/sectalks_twb)	| New - in planning stages	|||
 |             	|              	|           	|                   	|
 |             	|              	|           	|                   	|
 
