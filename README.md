@@ -30,6 +30,7 @@ Meetups by Region
 | [DC011612](https://www.dc011612.com/) | Last Thursday, Bi-Monthly | DC011612 is an Australian based DEF CON group started up in January 2018 by V3rbaal; it was formerly known as DC42. Meetups are sponsored by MercuryISS and are held usually on the last Thursday bi-monthly, with a turn up average of 25 members.  | CBD, Sydney |
 | [CryptoAUSTRALIA Digital Self-Defence & Privacy](https://www.meetup.com/CryptoAUSTRALIA-Digital-Self-Defence-Privacy/) | Monthly | CryptoAUSTRALIA Digital Self-Defence & Privacy empowers citizens to embrace technology to help preserve their right to privacy. Our group achieves this by providing practical information on tools, processes and policy (need to think about appropriate terms) allowing citizens that are new to privacy concepts to quickly adopt and adapt to a privacy environment. | CBD, Sydney
 | [Cybersecurity for Lawyers by CryptoAUSTRALIA](https://www.meetup.com/Cybersecurity-for-Lawyers/) | Monthly | CryptoAUSTRALIA are running a series of lectures and workshops to help legal professionals protect themselves and their legal practices from hackers, cyber-criminals and digital threats. | CBD, Sydney
+| [(ISC)2 Sydney Chapter](https://www.meetup.com/ISC-2-Sydney-Chapter/) | Random | This is (ISC)2 Sydney chapter group inviting all professionals to come an join us for our professional meetups | CBD, Sydney
 
 
 #### Queensland
