@@ -25,9 +25,11 @@ Meetups by Region
 
 | Meetup Name 	| Typically on 	| About this Meetup | Locale 	|
 |-------------	|--------------	|-----------	|-------------------	|
-| [SecTalks Sydney](https://www.sectalks.org/sydney/) | Third Tuesday, Monthly | SecTalks Sydney is a non-profit community that runs monthly sessions for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. We have a mix of sessions for both beginners and security professionals. Visit the [Meetup group](http://www.meetup.com/SecTalks/) for more details.  | CBD, Sydney 
-| [Sydney 2600](https://www.meetup.com/Sydney-2600/) | Monthly | 2600 Meetings exist as a forum for all interested in technology to meet and talk about events in technology-land, learn, and teach. Meetings are open to anyone of any age or level of expertise. | CBD, Sydney 
+| [SecTalks Sydney](https://www.sectalks.org/sydney/) | Third Tuesday, Monthly | SecTalks Sydney is a non-profit community that runs monthly sessions for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. We have a mix of sessions for both beginners and security professionals. Visit the [Meetup group](http://www.meetup.com/SecTalks/) for more details.  | CBD, Sydney
+| [Sydney 2600](https://www.meetup.com/Sydney-2600/) | Monthly | 2600 Meetings exist as a forum for all interested in technology to meet and talk about events in technology-land, learn, and teach. Meetings are open to anyone of any age or level of expertise. | CBD, Sydney
 | [DC011612](https://www.dc011612.com/) | Last Thursday, Bi-Monthly | DC011612 is an Australian based DEF CON group started up in January 2018 by V3rbaal; it was formerly known as DC42. Meetups are sponsored by MercuryISS and are held usually on the last Thursday bi-monthly, with a turn up average of 25 members.  | CBD, Sydney |
+| [CryptoAUSTRALIA Digital Self-Defence & Privacy](https://www.meetup.com/CryptoAUSTRALIA-Digital-Self-Defence-Privacy/) | Monthly | CryptoAUSTRALIA Digital Self-Defence & Privacy empowers citizens to embrace technology to help preserve their right to privacy. Our group achieves this by providing practical information on tools, processes and policy (need to think about appropriate terms) allowing citizens that are new to privacy concepts to quickly adopt and adapt to a privacy environment. | CBD, Sydney
+| [Cybersecurity for Lawyers by CryptoAUSTRALIA](https://www.meetup.com/Cybersecurity-for-Lawyers/) | Monthly | CryptoAUSTRALIA are running a series of lectures and workshops to help legal professionals protect themselves and their legal practices from hackers, cyber-criminals and digital threats. | CBD, Sydney
 
 
 #### Queensland
