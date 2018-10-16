@@ -64,12 +64,11 @@ Meetups by Region
 |-------------	|--------------	|-----------	|-------------------	|
 |[CSides](https://bsidescbr.com.au/csides.html)	| 3rd Friday, Monthly 	| CSides Monthly Security Meetups provide an opportunity to listen to and share security research within the Canberra region. The meeting occurs normally on the 3rd Friday of every month. Each meetup consists of 1-2 talks of around 30 mins each. Talks start at 6pm and are followed by some socialising at a local pub. New attendees are welcome, just come along! (There are no entry fees, and no tickets to book) The talks at CSides are technical. CSides welcomes new and interesting speakers to present - the topic will be on a technical or security issue.	| Acton, Canberra	|
 | [SecTalks Canberra](https://www.sectalks.org/canberra/)  |  2nd Tuesday, Monthly	| SecTalks Melbourne is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. Typically a presentation and a technical workshop. Runs from 7.00 until 9.00(ish). | Canberra, CBD |
-| Canberra Locksport | EveryThursday | Picking and bypassing locks, Impressioning, and tamper evident analysis | Infosect (Fishwick) |
+| [Canberra Locksport](https://www.meetup.com/en-AU/Canberra-Locksport/) | EveryThursday | Picking and bypassing locks, Impressioning, and tamper evident analysis | Infosect (Fishwick) |
 | [Cyberspectrum](https://www.meetup.com/en-AU/Cyberspectrum-Canberra-SDR) | Monthly | Software Defined Radio (SDR) monthly meetup. | Infosect (Fishwick) | 
 | [Cyber Readings](https://cs.anu.edu.au/cybersec/news/2017/07/01/CyberReadings004/) | Fortnightly | Whitepaper analysis and group discussion. | Turing Room, ANU, Canberra |
 | [InfoSect Networking Night](https://www.meetup.com/en-AU/InfoSect/) | Thursday nights | InfoSect is a space for people interested in computer security, learning more and meeting amazing people doing amazing things in this space. | Infosect (Fishwick) |
-
-
+| [FTOTM](https://www.linkedin.com/groups/6400641/) | First Thursday of the Month | Drinks and networking with security professionals. FTOTM maintains a strong no sales stance, there will be no death by PowerPoint, we do have a brief and informal discussion on a topic of interest, not a sales pitch. | Ostani Bar at Hotel Realm, 18 National Circuit, Barton |
 #### Western Australia
 
 
