@@ -33,6 +33,7 @@ Meetups by Region
 | [(ISC)2 Sydney Chapter](https://www.meetup.com/ISC-2-Sydney-Chapter/) | Random | This is (ISC)2 Sydney chapter group inviting all professionals to come an join us for our professional meetups | CBD, Sydney
 | [Sydney Cyber Security for Control Systems](https://www.meetup.com/Sydney-Cyber-Security-for-Control-Systems/) | Random | This meetup dedicated to all professionals involved in Cyber Security for Automated Processes and Control Systems including security for Operating Technology (OT), Industrial Control Systems (ICS), SCADA Systems, Transportation Systems, Building Control Systems (BCS), and even emerging Industrial Internet of Things (IIoT) systems. Our purpose is to connect the professionals in the Greater Sydney area with real interest in or responsibility for the cyber security of these systems. | Sydney
 | [Sydney Cybersecurity Meetup](https://www.meetup.com/Sydney-Cybersecurity-Meetup/) | Random | A group for those interested in networking opportunities, informative discussions and educational sessions on all things cyber. Our Meetup is designed to fit all experience and skill levels from novice to Cyber Warrior. So whether you’re in business, academia, or government, we're looking forward to meeting you at our next event! | Sydney
+| [FWOTM](https://www.meetup.com/en-AU/Cyber-Risk-in-Sydney/events/241194692/) | First Wednesday of the Month |  Social drinks and get-to-know the other professionals in your industry. | Sydney region (location visible to members) |
 
 
 #### Queensland
