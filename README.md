@@ -72,5 +72,5 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Perth](https://www.sectalks.org/perth/) | Thursday | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 3rd Thursday of each month at 5:30pm. |
-|             	|              	|           	|                   	|
+| [OWASP Perth](https://www.meetup.com/OWASP-Perth/) | | Best Effort | The Open Web Application Security Project (OWASP) is a worldwide not-for-profit organisation focused on improving software security. OWASP Perth is a local Chapter run by volunteers. Our primary focus is advancing software security through bolstering awareness and sharing of practical knowledge and advice. |
 |             	|              	|           	|                   	|
