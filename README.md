@@ -42,7 +42,7 @@ Meetups by Region
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Brisbane](https://www.sectalks.org/brisbane/) | Fourth Thursday | Monthly | SecTalks Brisbane is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 4th Thursday of each month at 6pm. |
-| [SecTalks Toowoomba](https://twitter.com/sectalks_twb)	| First meetup is Nov 8th	| TBD | SecTalks is a non-profit session for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. |
+| [SecTalks Toowoomba](https://sectalks.org/toowoomba)	| First meetup is Nov 8th	| TBD | SecTalks is a non-profit session for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. |
 | [OWASP Brisbane](https://www.owasp.org/index.php/Brisbane) |              	| Best effort | OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. |
 | [Brisbane Cyber Security Meetup](https://www.meetup.com/meetup-group-aGFkzPMT/)| Last Tuesday| Monthly | This is a group for anyone interested in cyber security, security needs of major corporations, and those developing disruptive technologies for this sector. |
 
