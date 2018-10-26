@@ -39,9 +39,7 @@ Meetups by Region
 
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
-|             	|              	|           	|                   	|
-|             	|              	|           	|                   	|
-|             	|              	|           	|                   	|
+| [SecTalks Adelaide](https://www.sectalks.org/adelaide/) | First Tuesday, Monthly | SecTalks Adelaide is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. SecTalks Adelaide is held every month. Visit the [Meetup group](https://www.meetup.com/SecTalks-Adelaide/) for more details.  | Inner West, Adelaide |
 
 #### Tasmania
 
