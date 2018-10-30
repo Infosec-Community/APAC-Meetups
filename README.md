@@ -94,5 +94,6 @@ Meetups by Region
 | Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
 |-------------	| --------------	|-------------------	|--------|
 | [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
+| [Null Chapter Ahemdabad](https://null.co.in/chapters/17-ahmedabad)  |  Last Sunday, Monthly	| Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Ahemdabad, Gujarat, India |
 
 
