@@ -81,6 +81,7 @@ Meetups by Region
 | [OWASP Perth](https://www.meetup.com/OWASP-Perth/) | | Best Effort | The Open Web Application Security Project (OWASP) is a worldwide not-for-profit organisation focused on improving software security. OWASP Perth is a local Chapter run by volunteers. Our primary focus is advancing software security through bolstering awareness and sharing of practical knowledge and advice. |
 | STOTM             	| Last Thursday of the Month	| Monthly	| Drinks and networking with security professionals. STOTM maintains a strong no sales stance, there will be no death by PowerPoint, we do have a brief and informal discussion on a topic of interest, not a sales pitch.	|
 | [AISA Perth](https://www.aisa.org.au/Public/Public/Branches/Perth/Perth_Branch.aspx) | 2nd Tuesday, 17:15 hrs | Monthly | AISA's Perth branch has over 350 members and regularly has 50 - 75 members in attendance at its monthly branch meetings. Perth branch meetings provide members with a wide variety of speakers and meeting formats including presentations and panel sessions.  |
+| AWSN Perth | - | Mostly monthly | We are an open network of people of different backgrounds, experience, qualifications, age and gender. Our common interest is security. |
 
 
 ### India
