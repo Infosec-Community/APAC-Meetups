@@ -107,6 +107,6 @@ Meetups by Region
 
 | Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
 |-------------	| --------------	|-------------------	|--------|
-| [RawSEC](https://www.rawsec.com)  |  Monthly | RawSEC is a non-profit community effort which intends to provide a strong platform for local information security talents to share and contribute their knowledge to the community. RawSEC existence is to address the current industry gap by bridging the education sector and industry through a series of meetups and discussion session which would produce relevant talents for the industry. Contact:- committee at rawsec.com | Kuala Lumpur,Malaysia |
+| [rawSEC - Malaysia CyberSecurity Community](https://www.rawsec.com)  |  Monthly | rawSEC is a non-profit community effort which intends to provide a strong platform for local information security talents to share and contribute their knowledge to the community. rawSEC existence is to address the current industry gap by bridging the education sector and industry through a series of meetups and discussion session which would produce relevant talents for the industry. Contact:- committee at rawsec.com | Kuala Lumpur,Malaysia |
 
 
