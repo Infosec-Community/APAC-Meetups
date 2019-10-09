@@ -100,3 +100,13 @@ Meetups by Region
 |-------------	| --------------	|-------------------	|--------|
 | [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
 
+
+### Malaysia
+
+#### Kuala Lumpur
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [RawSEC](https://www.rawsec.com)  |  Monthly | RawSEC is a non-profit community effort which intends to provide a strong platform for local information security talents to share and contribute their knowledge to the community. RawSEC existence is to address the current industry gap by bridging the education sector and industry through a series of meetups and discussion session which would produce relevant talents for the industry. Contact:- committee at rawsec.com | Kuala Lumpur,Malaysia |
+
+
