@@ -109,4 +109,8 @@ Meetups by Region
 |-------------	| --------------	|-------------------	|--------|
 | [rawSEC - Malaysia CyberSecurity Community](https://www.rawsec.com)  |  Monthly | rawSEC is a non-profit community effort which intends to provide a strong platform for local information security talents to share and contribute their knowledge to the community. rawSEC existence is to address the current industry gap by bridging the education sector and industry through a series of meetups and discussion session which would produce relevant talents for the industry. Contact:- committee at rawsec.com | Kuala Lumpur,Malaysia |
 
+### Nepal
 
+| Meetup Name   | Typically on   | About this Meetup   | Locale |
+|-------------  | -------------- | ------------------- | -------|
+| [Pentester Nepal](https://www.facebook.com/groups/pentesternepal/) | Last Saturday of every month as per Nepalese Calendar | With a motive to bring most of the Nepalese cyber security professionals and enthusiasts in one place and share the knowledge on various domain within cyber security, we gather every month and share stuffs in different topics. | Kathmandu, Nepal
