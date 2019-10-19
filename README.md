@@ -1,6 +1,6 @@
 # Asia-Pacific Information/Cyber Security Meetups
 A community contributed consolidated list of InfoSec meetups in the Asia Pacific region.
-Pull requests welcomed.
+Pull requests encouraged.
 
 Meetups by Region
 -----------------
@@ -14,10 +14,11 @@ Meetups by Region
 | [Ruxmon Melbourne](https://ruxmon.com/melbourne/)	|  Last Friday, Monthly	| Each month two speakers from the local security community will share their knowledge on a security topic ranging from introductory/beginner level to more advanced topics. Presentations are followed up with a catchup at a local pub. If you're interested in IT Security and related topics, looking to learn a bit more, or want to meet up with fellow security people, then you should definitely check out a meeting. | CBD, Melbourne. |
 | [AllSec](https://www.meetup.com/All-Sec/) | First Wednesday, Monthly | All Sec is an informal community-driven meetup for those looking to learn new skills and meet like-minded people from the infosec industry. The infosec space is vast, and we want to encourage people to share their diverse knowledge and experience through presentations, technical demos and hands-on challenges. | CBD, Melbourne. |
 |[CyberSpectrum Melbourne](https://www.meetup.com/Cyberspectrum-Melbourne/)| Last Thursday, Monthly | In collaboration with the Bay Area Software Defined Radio (SDR) group, the Melbourne SDR meetup will serve as a forum to exchange knowledge and ideas related to Software Defined Radio (the software and hardware), and generally aim to get people excited about all the applications that can be realised with the technology. At each meetup, attendees will have the opportunity to present their work/ideas to the group. Engineers, enthusiasts, hobbyists and people of all experience levels are welcome, no matter what your software/hardware background. Everyone is welcome to submit their ideas/presentations to the pool. For each meetup, a fixed number will be chosen to fit the format. | CBD, Melbourne |
-|[Melbourne DevSecOps User Group](https://www.meetup.com/Melbourne-DevSecOps-User-Group/)| Best Effort, Forthnightly/Monthly | A Meetup to help break down the barriers between devs, ops and security teams in our big bad world of automation! | CBD, Melbourne |
+|[Melbourne DevSecOps User Group](https://www.meetup.com/Melbourne-DevSecOps-User-Group/)| Best Effort, Fortnightly/Monthly | A Meetup to help break down the barriers between devs, ops and security teams in our big bad world of automation! | CBD, Melbourne |
 |[CryptoAUSTRALIA Digital Self-Defence and Privacy](https://www.meetup.com/en-AU/CryptoAUSTRALIA-Digital-Self-Defence-Privacy-Melbourne/)|Monthly|CryptoAUSTRALIA Digital Self-Defence & Privacy empowers citizens to embrace technology to help preserve their right to privacy. Our group achieves this by providing practical information on tools, processes and policy (need to think about appropriate terms) allowing citizens that are new to privacy concepts to quickly adopt and adapt to a privacy environment.|CBD, Melbourne|
 |[Cyber Riskers Meetup](https://www.cyberriskmeetup.com/melbourne)|various, Monthly| Passionate about these two words: Cyber & Risk? Thinking about how you are going to keep up with cyber trends and latest talk of the town? Yes, that's us Cyber Riskers! We love our get-togethers and meetups with like-minded people. We meet once every quarter; we enjoy good food & drinks, sharing ideas, experiences, contacts, anything cyber risk. Don't underestimate the power of networking|CBD/Southbank, Melbourne|
 | [Last Tuesday of the Month Club (LTOTM)](https://www.linkedin.com/groups/4963271/profile)	| Last Tuesday, Monthly	| LTOTM is a mix of professionals from: Information Security, Technical, IT Risk, IT Audit, Business Continuity/Disaster Recovery, Lawyers & Law Enforcement. The club provides an opportunity to network and have a few hours out to relax and socialise with peers. LTOTM maintains a strong no sales stance, there will be no death by PowerPoint, we may have a brief (<10 min) informal discussion on a topic of interest, not a sales pitch.	| CBD, Melbourne	|
+| [CyRise Sessions](https://www.meetup.com/en-AU/CyRise-Sessions/) | Unknwon | Do you have a cyber security startup? Or an idea for a cyber security solution? CyRise Sessions is for current and potential cyber security founders, and key players in the cyber startup sector. We care about nurturing and expanding the ecosystem through building great relationships and sharing helpful content. CyRise, Australia's only cyber security accelerator program, is a partnership between Deakin University and Dimension Data. | CBD, Melbourne
 
 
 
@@ -35,6 +36,9 @@ Meetups by Region
 | [Sydney Cybersecurity Meetup](https://www.meetup.com/Sydney-Cybersecurity-Meetup/) | Random | A group for those interested in networking opportunities, informative discussions and educational sessions on all things cyber. Our Meetup is designed to fit all experience and skill levels from novice to Cyber Warrior. So whether you’re in business, academia, or government, we're looking forward to meeting you at our next event! | Sydney
 | [FWOTM](https://www.meetup.com/en-AU/Cyber-Risk-in-Sydney/events/241194692/) | First Wednesday of the Month |  Social drinks and get-to-know the other professionals in your industry. | Sydney region (location visible to members) |
 | [SECedu](https://sec.edu.au/) | Random |  SECedu is a learning and teaching community of security engineering tertiary students, academics and professionals. Events are hosted sporadically for all experience levels. For students, join the [SECedu slack](https://seceduau.slack.com/signup) and [subscribe](https://sec.edu.au/subscribe/) to the event mailing list to get involved in the community. For professionals, if you would like to run a workshop or get involved with teaching security at UNSW, send your interest to secedu@unsw.edu.au | Sydney, often at UNSW |
+| [NepSec Sydney](https://facebook.com/nepsecsyd/) | First Thursday of the Month | NepSec Sydney started from Jan,2019 as an initiation of helping all the Nepalese people residing in Sydney,Australia to get started into the amazing field of information security. We realised that there were very less number of infosec professionals originating from Nepal here in Australia so this is there just to fill this gap and increase this number as well as create a good network of Nepalese security enthusiasts. Sessions delivered in Nepalese + English mix so as to facilitate the attendees to understand the context properly. For Nepalese, if you wan't to join our slack, please message our [facebook page](https://facebook.com/nepsecsyd) | Sydney, Often at Bugcrowd Sydney's Office |
+| [Zero Days Sydney](https://www.meetup.com/Zero-Days/) | Third Tuesday of each month | This meetup is targeted to cover topics within the sphere of Security across the Information Technology domain. They welcome anyone who is interested in their meetup; be that a passing interest, a professional interest or somewhere in between. | CBD, Sydney |
+| [Newcastle CyberSecurity Group](https://newcastlecybersecurity.group/) | Last Friday of each month | We're a regular meetup talking about all things cyber security. We're open and welcoming to anyone with an interest in the security space. | Newcastle 
 
 
 #### Queensland
@@ -77,9 +81,10 @@ Meetups by Region
 
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
-| [SecTalks Perth](https://www.sectalks.org/perth/) | Thursday | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 3rd Thursday of each month at 5:30pm. |
-| [OWASP Perth](https://www.meetup.com/OWASP-Perth/) | | Best Effort | The Open Web Application Security Project (OWASP) is a worldwide not-for-profit organisation focused on improving software security. OWASP Perth is a local Chapter run by volunteers. Our primary focus is advancing software security through bolstering awareness and sharing of practical knowledge and advice. |
-|             	|              	|           	|                   	|
+| [SecTalks Perth](https://www.sectalks.org/perth/) | 3rd Thursday of the Month | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. Held on the 3rd Thursday of each month at 5:30pm. |
+[STOTM](https://www.linkedin.com/groups/7053348/)             	| 2nd Thursday of the Month	| Monthly	| Drinks and networking with security professionals. STOTM maintains a strong no sales stance, there will be no death by PowerPoint, we do have a brief and informal discussion on a topic of interest, not a sales pitch. Held on the 2nd Thursday of the Month at 5:15pm.	|
+| [AISA Perth](https://www.aisa.org.au/Public/Public/Branches/Perth/Perth_Branch.aspx) | 2nd Tuesday, 17:15 hrs | Monthly | AISA's Perth branch has over 350 members and regularly has 50 - 75 members in attendance at its monthly branch meetings. Perth branch meetings provide members with a wide variety of speakers and meeting formats including presentations and panel sessions.  |
+| AWSN Perth | - | Mostly monthly | We are an open network of people of different backgrounds, experience, qualifications, age and gender. Our common interest is security. |
 
 
 ### India
@@ -94,6 +99,20 @@ Meetups by Region
 | Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
 |-------------	| --------------	|-------------------	|--------|
 | [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
-| [Null Chapter Ahemdabad](https://null.co.in/chapters/17-ahmedabad)  |  Last Sunday, Monthly	| Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Ahemdabad, Gujarat, India |
 
 
+### Malaysia
+
+#### Kuala Lumpur
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [rawSEC - Malaysia CyberSecurity Community](https://www.rawsec.com)  |  Monthly | rawSEC is a non-profit community effort which intends to provide a strong platform for local information security talents to share and contribute their knowledge to the community. rawSEC existence is to address the current industry gap by bridging the education sector and industry through a series of meetups and discussion session which would produce relevant talents for the industry. Contact:- committee at rawsec.com | Kuala Lumpur,Malaysia |
+
+### Nepal
+
+| Meetup Name   | Typically on   | About this Meetup   | Locale |
+|-------------  | -------------- | ------------------- | -------|
+| [Pentester Nepal](https://www.facebook.com/groups/pentesternepal/) | Last Saturday of every month as per Nepalese Calendar | With a motive to bring most of the Nepalese cyber security professionals and enthusiasts in one place and share the knowledge on various domain within cyber security, we gather every month and share stuffs in different topics. | Kathmandu, Nepal |
+| [Pentester Nepal - Chitwan](https://www.facebook.com/groups/pentesternepal/) | Best Effort | This meetup is focused to bring the security enthusiasts and professionals living in and nearby Chitwan region. Though time of when it is conducted is not specific but we keep our best effort to try to make it happen every now and then. All details gets posted in the [Facebook Group] (https://www.facebook.com/groups/pentesternepal/). | Chitwan,Nepal |
+| [Pentester Nepal - Pokhara](https://www.facebook.com/groups/pentesternepal/) | Best Effort |  Under the same name of Pentester Nepal, this is branch group focused for the infosec enthusiasts in Pokhara city. We welcome everyone in and around Pokhara and try to deliver and discuss on various topics related to information security. Though we do not have any specific time of when it happens, but we always try to put in our best effort and organize it every now and then. Please refer to our [Facebook Group] (https://www.facebook.com/groups/pentesternepal/) to get updated of our meetups and also ask/share the knowledge. | Pokhara,Nepal | [Pentester Nepal - Butwal](https://www.facebook.com/groups/pentesternepal/) | Best Effort | Under Pentester Nepal, this branch group holds meetups every now and then for the security enthusiasts in and around Butwal region. Please refer to our [Facebook Group](https://www.facebook.com/groups/pentesternepal/) for getting notified of when next meetup is happening here and get involved. | Butwal,Nepal
