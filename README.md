@@ -94,6 +94,13 @@ Meetups by Region
 |-------------	| --------------	|-------------------	|--------|
 | [Null Chapter Ahmedabad](https://null.co.in/chapters/17-ahmedabad)  |  Last Sunday, Monthly	| Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Ahmedabad,Gujarat, India |
 
+
+#### Bangalore
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [Null Chapter Bangalore + OWASP Meet + Garage4Hackers (Combined)](https://null.co.in/chapters/1-bangalore)  | Monthly	| Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Bangalore,Karnataka, India |
+
 #### Delhi
 
 | Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
