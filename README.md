@@ -108,6 +108,13 @@ Meetups by Region
 | [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
 
 
+#### Trivandrum
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [Defcon Group Trivandrum (DC0471)](https://dc0471.org/about.html)  |  Once in 6 weeks | Defcon group meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and it's members. | Trivandrum,India |
+
+
 ### Malaysia
 
 #### Kuala Lumpur
