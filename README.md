@@ -85,6 +85,7 @@ Meetups by Region
 [STOTM](https://www.linkedin.com/groups/7053348/)             	| 2nd Thursday of the Month	| Monthly	| Drinks and networking with security professionals. STOTM maintains a strong no sales stance, there will be no death by PowerPoint, we do have a brief and informal discussion on a topic of interest, not a sales pitch. Held on the 2nd Thursday of the Month at 5:15pm.	|
 | [AISA Perth](https://www.aisa.org.au/Public/Public/Branches/Perth/Perth_Branch.aspx) | 2nd Tuesday, 17:15 hrs | Monthly | AISA's Perth branch has over 350 members and regularly has 50 - 75 members in attendance at its monthly branch meetings. Perth branch meetings provide members with a wide variety of speakers and meeting formats including presentations and panel sessions.  |
 | AWSN Perth | - | Mostly monthly | We are an open network of people of different backgrounds, experience, qualifications, age and gender. Our common interest is security. |
+| [GitHub User Group Perth](https://www.meetup.com/en-AU/perth-github-user-group/) | 2nd Thurs the month | Monthly | A community of like-minded developers and engineers who are passionate about sharing knowledge, best practices, and all things Git, DevOps, Continuous Delivery, and Information Security. | 
 
 
 ### India
